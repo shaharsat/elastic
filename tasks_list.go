@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/olivere/elastic/v8/uritemplates"
 )
 
 // TasksListService retrieves the list of currently executing tasks
