@@ -14,11 +14,11 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/olivere/env"
+	"github.com/shaharsat/env"
 	awsauth "github.com/smartystreets/go-aws-auth"
 
-	"github.com/olivere/elastic/v8"
-	"github.com/olivere/elastic/v8/aws"
+	"github.com/shaharsat/elastic/v8"
+	"github.com/shaharsat/elastic/v8/aws"
 )
 
 func main() {

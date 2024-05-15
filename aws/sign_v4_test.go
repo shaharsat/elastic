@@ -13,7 +13,7 @@ import (
 
 	awsauth "github.com/smartystreets/go-aws-auth"
 
-	"github.com/olivere/elastic/v8"
+	"github.com/shaharsat/elastic/v8"
 )
 
 func TestSigningClient(t *testing.T) {

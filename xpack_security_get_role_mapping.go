@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/v8/uritemplates"
+	"github.com/shaharsat/elastic/v8/uritemplates"
 )
 
 // XPackSecurityGetRoleMappingService retrieves a role mapping by its name.

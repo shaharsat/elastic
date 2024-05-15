@@ -1,4 +1,4 @@
-module github.com/olivere/elastic/v8
+module github.com/shaharsat/elastic/v8
 
 go 1.17
 

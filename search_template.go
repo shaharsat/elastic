@@ -9,7 +9,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/olivere/elastic/v8/uritemplates"
+	"github.com/shaharsat/elastic/v8/uritemplates"
 	"net/http"
 	"net/url"
 	"strings"

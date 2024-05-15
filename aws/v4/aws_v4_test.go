@@ -14,7 +14,7 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws/credentials"
 
-	"github.com/olivere/elastic/v8"
+	"github.com/shaharsat/elastic/v8"
 )
 
 func TestSigningClient(t *testing.T) {

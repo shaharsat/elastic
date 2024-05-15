@@ -19,10 +19,10 @@ import (
 	"time"
 
 	"github.com/aws/aws-sdk-go/aws/credentials"
-	"github.com/olivere/env"
+	"github.com/shaharsat/env"
 
-	"github.com/olivere/elastic/v8"
-	aws "github.com/olivere/elastic/v8/aws/v4"
+	"github.com/shaharsat/elastic/v8"
+	aws "github.com/shaharsat/elastic/v8/aws/v4"
 )
 
 const (

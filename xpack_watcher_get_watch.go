@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/olivere/elastic/v8/uritemplates"
+	"github.com/shaharsat/elastic/v8/uritemplates"
 )
 
 // XPackWatcherGetWatchService retrieves a watch by its ID.

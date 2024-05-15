@@ -19,7 +19,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/olivere/elastic/v8"
+	"github.com/shaharsat/elastic/v8"
 )
 
 const (

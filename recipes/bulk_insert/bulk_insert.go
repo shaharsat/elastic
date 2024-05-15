@@ -35,7 +35,7 @@ import (
 
 	"golang.org/x/sync/errgroup"
 
-	"github.com/olivere/elastic/v8"
+	"github.com/shaharsat/elastic/v8"
 )
 
 func main() {
